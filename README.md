@@ -5,5 +5,5 @@ A tiny command-line takeaway app that greets the user, shows a four-item menu, a
 ## How to run
 
 ```bash
-python app.py
+python main.py
 ```
