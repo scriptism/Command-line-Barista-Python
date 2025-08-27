@@ -1,3 +1,4 @@
+# variables, input, and output
 name = input("What is your name?\n")
 
 menu = (
